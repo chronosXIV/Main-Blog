@@ -10,3 +10,5 @@ Some of the things I modified for the current blog:
 - Fixed overflowing text.
 - Original source had issues where the infinite scroll would get stuck if the webpage did not load fast enough, which I fixed.
 - Changed styling choices like the cursor, the favicon, the font type, size and colours, post borders, post backgrounds, blog background, etc.
+
+PS: Alumina is a name for Aluminium Oxide, but it's the name of my blog as it's the title of a song I really like.
