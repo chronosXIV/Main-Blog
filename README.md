@@ -1,6 +1,6 @@
 # My main tumblr blog: Alumina
 
-I created this blog back in January 2014 and since then it has helped me improve my HTML and CSS skills. In order to learn HTML and CSS first-hand, I used to search for website designs that I found interesting, and alter them to find out more about the code and how it worked.
+I created this blog back in January 2014 and since then it has helped me improve my HTML and CSS skills. In order to learn HTML and CSS first-hand, I used to search for website designs that I found interesting, and alter them to find out more about the code and how it worked. The website link is: http://alumina.tumblr.com/
 
 Some of the things I modified for the current blog:
 
